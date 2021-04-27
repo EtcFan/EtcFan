@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on anyone
 - 📫 How to reach me: 
-          LinkedIn: @ElenaFan
-          Insta:
+          LinkedIn: www.linkedin.com/in/elena-fan
 
 <!---
 EtcFan/EtcFan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
